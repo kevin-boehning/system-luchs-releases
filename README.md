@@ -21,10 +21,12 @@ Hinweis: Die Installationsdatei ist momentan noch nicht digital signiert. Window
 - Größen, belegter Speicher, Prozentanteile, Datei-/Ordnerzahlen und Zeitstempel in einer TreeSize-artigen Detailansicht
 - interaktive räumliche 3D-Größenkarte für den jeweils ausgewählten Ordner
 - Start-Booster mit Übersicht über Autostarts, laufende Prozesse und automatische Dienste
+- integrierter Task-Manager mit Prozesssuche, Sortierung, Live-Aktualisierung, Starten und sicher bestätigtem Beenden von Programmen
+- Leistungsansicht für CPU, Arbeitsspeicher, physische Datenträger, Netzwerkadapter und GPUs
 - Treiberinventar und Treiberupdates über Windows Update
 - Microsoft-Defender-Integration mit Schnell-, Voll- und Ordnerscans
 - Übersicht über Defender-Funde und Behandlung aktiver Bedrohungen
-- integrierter Auto-Updater über GitHub Releases
+- integrierter Auto-Updater über GitHub Releases mit sichtbarer Prüfung direkt beim App-Start
 - abgesicherte Oberfläche sowie ein bewusst aktivierbarer Entwicklermodus für erweiterte Funktionen
 
 ## Dieses Repository
@@ -33,6 +35,6 @@ Dieses öffentliche Repository enthält ausschließlich die Installationsdateien
 
 ## Entwicklungsstand
 
-System Luchs befindet sich noch in aktiver Entwicklung. Version 0.3.4 ist ein Entwicklungsstand und derzeit noch nicht digital signiert.
+System Luchs befindet sich noch in aktiver Entwicklung. Version 0.3.6 ist ein Entwicklungsstand und derzeit noch nicht digital signiert.
 
 Entwickelt von Kevin Böhning.

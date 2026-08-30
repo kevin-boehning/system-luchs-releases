@@ -2,6 +2,14 @@
 
 System Luchs ist eine Windows-Desktopanwendung für gründliche und nachvollziehbare Systempflege. Das Programm bündelt Reinigungs-, Deinstallations-, Speicher-, Autostart-, Treiber- und Sicherheitsfunktionen in einer gemeinsamen Oberfläche.
 
+## Download
+
+**[System Luchs 0.3.0 – Installationsdatei herunterladen](https://github.com/kevin-boehning/system-luchs-releases/releases/latest/download/System-Luchs-0.3.0-Setup.exe)**
+
+[Release und weitere Update-Dateien anzeigen](https://github.com/kevin-boehning/system-luchs-releases/releases/latest)
+
+Hinweis: Die Installationsdatei ist momentan noch nicht digital signiert. Windows kann deshalb eine SmartScreen-Warnung anzeigen.
+
 ## Funktionen
 
 - Deep Cleaner für temporäre Dateien, Browser- und Programm-Caches, Shader-Caches und Absturzberichte

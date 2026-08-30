@@ -4,7 +4,7 @@ System Luchs ist eine Windows-Desktopanwendung für gründliche und nachvollzieh
 
 ## Download
 
-**[System Luchs 0.3.0 – Installationsdatei herunterladen](https://github.com/kevin-boehning/system-luchs-releases/releases/latest/download/System-Luchs-0.3.0-Setup.exe)**
+**[System Luchs 0.3.1 – Installationsdatei herunterladen](https://github.com/kevin-boehning/system-luchs-releases/releases/latest/download/System-Luchs-0.3.1-Setup.exe)**
 
 [Release und weitere Update-Dateien anzeigen](https://github.com/kevin-boehning/system-luchs-releases/releases/latest)
 
@@ -29,6 +29,6 @@ Dieses öffentliche Repository enthält ausschließlich die Installationsdateien
 
 ## Entwicklungsstand
 
-System Luchs befindet sich noch in aktiver Entwicklung. Version 0.3.0 ist ein Entwicklungsstand und derzeit noch nicht digital signiert.
+System Luchs befindet sich noch in aktiver Entwicklung. Version 0.3.1 ist ein Entwicklungsstand und derzeit noch nicht digital signiert.
 
 Entwickelt von Kevin Böhning.

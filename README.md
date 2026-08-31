@@ -33,7 +33,8 @@ Hinweis: Die Installationsdatei ist momentan noch nicht digital signiert. Window
 - Microsoft-Defender-Integration mit Schnell-, Voll- und Ordnerscans
 - Übersicht über Defender-Funde und Behandlung aktiver Bedrohungen
 - integrierter Auto-Updater über GitHub Releases mit sichtbarer Prüfung direkt beim App-Start
-- offline prüfbares Pro-Lizenzsystem mit digital signierten Schlüsseln und Bindung an genau einen PC
+- digital signiertes Pro-Lizenzsystem mit Bindung an genau einen PC, Online-Aktivierung und siebentägiger Offline-Frist
+- geschützte, vom normalen Entwicklermodus vollständig getrennte Lizenzverwaltung
 - abgesicherte Oberfläche sowie ein bewusst aktivierbarer Entwicklermodus für erweiterte Funktionen
 
 ## Dieses Repository

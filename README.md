@@ -17,19 +17,23 @@ Hinweis: Die Installationsdatei ist momentan noch nicht digital signiert. Window
 - Deep Cleaner für temporäre Dateien, Browser- und Programm-Caches, Shader-Caches und Absturzberichte
 - wahlweise Quarantäne oder endgültiges Löschen nach ausdrücklicher Bestätigung
 - Programm-Deinstallation mit anschließender Suche nach verbliebenen Restdateien auf dem PC
+- gezielte Restesuche in AppData Local, Roaming, LocalLow, ProgramData und auf lokalen Laufwerken
+- konservative Erkennung verwaister Programmdaten mit Schutzabgleich gegen installierte Programme, Hersteller, laufende Prozesse, Installationspfade und bekannte Systemordner; solche Funde werden nie automatisch ausgewählt oder gelöscht
 - vollständige Speicheranalyse ohne Tiefenlimit bis zur einzelnen Datei; Ordner klappen beim Anklicken automatisch auf
 - Größen, belegter Speicher, Prozentanteile, Datei-/Ordnerzahlen und Zeitstempel in einer TreeSize-artigen Detailansicht
 - abgesichertes Rechtsklick-Menü mit Öffnen, Explorer, Pfadkopie, Windows-Eigenschaften und wiederherstellbarem Löschen über den Papierkorb
 - interaktive räumliche 3D-Größenkarte für den jeweils ausgewählten Ordner
 - Start-Booster mit Übersicht über Autostarts, laufende Prozesse und automatische Dienste
-- integrierter Task-Manager mit Prozesssuche, Sortierung, Live-Aktualisierung, Starten und sicher bestätigtem Beenden von Programmen
+- eigener Task-Manager-Reiter mit Prozesssuche, Sortierung, Live-Aktualisierung, Starten und sicher bestätigtem Beenden von Programmen
 - Leistungsansicht für CPU, Arbeitsspeicher, physische Datenträger, Netzwerkadapter und GPUs
+- ausführliches Hardware-Dossier mit Windows-, PC-, BIOS-, Mainboard-, CPU-, RAM-, GPU-, Secure-Boot- und TPM-Details
 - Registry-Tiefendiagnose in elf Bereichen, darunter Dienste, Aufgaben, COM-Server, Dateizuordnungen, App Paths, SharedDLLs, PATH und Schriften
 - gemeinsames Update-Center für reguläre Windows-Updates, optionale Updates und Treiber über die Windows-Update-Engine
 - Treiberinventar aller von Windows erkannten Plug-and-Play-Komponenten
 - Microsoft-Defender-Integration mit Schnell-, Voll- und Ordnerscans
 - Übersicht über Defender-Funde und Behandlung aktiver Bedrohungen
 - integrierter Auto-Updater über GitHub Releases mit sichtbarer Prüfung direkt beim App-Start
+- offline prüfbares Pro-Lizenzsystem mit digital signierten Schlüsseln und Bindung an genau einen PC
 - abgesicherte Oberfläche sowie ein bewusst aktivierbarer Entwicklermodus für erweiterte Funktionen
 
 ## Dieses Repository
@@ -38,6 +42,6 @@ Dieses öffentliche Repository enthält ausschließlich die Installationsdateien
 
 ## Entwicklungsstand
 
-System Luchs befindet sich noch in aktiver Entwicklung. Version 0.3.7 ist ein Entwicklungsstand und derzeit noch nicht digital signiert.
+System Luchs befindet sich noch in aktiver Entwicklung. Version 0.3.8 ist ein Entwicklungsstand und derzeit noch nicht digital signiert.
 
 Entwickelt von Kevin Böhning.

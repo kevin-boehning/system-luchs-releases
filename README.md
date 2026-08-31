@@ -44,6 +44,6 @@ Dieses öffentliche Repository enthält ausschließlich die Installationsdateien
 
 ## Entwicklungsstand
 
-System Luchs befindet sich noch in aktiver Entwicklung. Version 0.3.8 ist ein Entwicklungsstand und derzeit noch nicht digital signiert.
+System Luchs befindet sich noch in aktiver Entwicklung. Version 0.3.9 ist ein Entwicklungsstand und derzeit noch nicht digital signiert.
 
 Entwickelt von Kevin Böhning.

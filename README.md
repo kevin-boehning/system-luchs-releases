@@ -35,6 +35,7 @@ Hinweis: Die Installationsdatei ist momentan noch nicht digital signiert. Window
 - integrierter Auto-Updater über GitHub Releases mit sichtbarer Prüfung direkt beim App-Start
 - digital signiertes Pro-Lizenzsystem mit Bindung an genau einen PC, Online-Aktivierung und siebentägiger Offline-Frist
 - geschützte, vom normalen Entwicklermodus vollständig getrennte Lizenzverwaltung
+- PC-Daten bleiben ohne Lizenz sichtbar; alle Werkzeuge einschließlich Entwicklerbereich benötigen eine aktive Pro-Lizenz oder den persönlichen Admin-Key
 - abgesicherte Oberfläche sowie ein bewusst aktivierbarer Entwicklermodus für erweiterte Funktionen
 
 ## Dieses Repository
